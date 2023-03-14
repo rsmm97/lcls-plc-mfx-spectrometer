@@ -1,4 +1,4 @@
-# lcls-plc-template-twincat-project
+# lcls-plc-mfx-spectrometer
 
 This repository contains the standard files for starting a TwinCAT3 project and
 can be used as a template. 
